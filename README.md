@@ -1,7 +1,7 @@
 # Custom-Transform-Editor
 This is an editor extension for in-build **Transform** componenet in Unity Engine. 
 
-![Custom Editor](src/TransformEditor-sceenshot.png)
+![Custom Editor](src/TransformEditor-sceenshot.PNG)
 
 Features:  
 * **Copy/Paste** transform values.
